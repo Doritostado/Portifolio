@@ -1,0 +1,162 @@
+@charset "UTF-8";
+.item.active a img {
+	background-repeat: no-repeat;
+	float: none;
+}
+div .col-lg-12.text-center p {
+	color: #FFFFFF;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.carousel-inner .right.carousel-control {
+}
+div .col-lg-12.text-center p {
+	margin-top: 299px;
+}
+.carousel-inner .left.carousel-control {
+	left: 0px;
+}
+.carousel-inner .right.carousel-control {
+	left: 550px;
+}
+.carousel-inner .item .carousel-caption {
+	left: -236px;
+}
+.carousel-indicators {
+	left: 332px;
+}
+body {
+}
+body h1 {
+	margin-left: 264px;
+}
+body {
+}
+body {
+}
+#sobre div {
+}
+div .col-lg-12.text-center h2 {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 121px;
+	padding-bottom: 0px;
+}
+div .col-lg-12.text-center .col-md-2.text-center {
+	float: left;
+	text-align: justify;
+	padding-right: 0px;
+}
+.row .col-lg-12.text-center .btn.btn-xl {
+	margin-left: 200px;
+}
+.navbar.navbar-default.navbar-custom.navbar-fixed-top {
+}
+.container .navbar-header.page-scroll .navbar-brand.page-scroll {
+}
+.container .nav.navbar-nav.navbar-right li {
+}
+.nav.navbar-nav.navbar-right li .page-scroll {
+}
+.nav.navbar-nav.navbar-right li a {
+	color: #000000;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+#contato {
+	margin-top: 554px;
+}
+.container .nav.navbar-nav.navbar-right li {
+	padding-left: 144px;
+}
+div div .col-lg-12.text-center {
+	padding-bottom: 118px;
+}
+body h1 {
+	padding-top: 90px;
+}
+.col-md-6 .form-group #name {
+}
+.col-md-6 .form-group #message {
+	width: 555px;
+	height: 110px;
+}
+.col-md-6 .form-group #email {
+}
+#sobre img {
+	background-repeat: no-repeat;
+	float: none;
+	background-clip: content-box;
+}
+body p {
+}
+div div img {
+}
+.col-lg-12.text-center .col-md-3.img-center .col-md-2.text-center {
+	float: none;
+}
+div .col-lg-12.text-center h2 {
+	float: none;
+	color: #FFFFFF;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+body h1 {
+	color: #FFFFFF;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+
+.row .col-lg-12.text-center h4 {
+	color: #FFFFFF;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.col-lg-12.text-center .col-md-2.text-center p {
+	padding-right: 0px;
+	right: 585px;
+}
+.row.row-centered .col-lg-12.text-center p {
+	margin-top: 30px;
+	text-align: justify;
+	padding-left: 359px;
+}
+body {
+	background-repeat: no-repeat;
+	background-image: url(Imagem/Home3.jpg);
+}
+.row.row-centered .col-lg-3.text-center p {
+	color: #FFFFFF;
+}
+
+.col-lg-3.text-center p .img-responsive {
+	text-align: justify;
+}
+body header {
+	margin-top: -404px;
+	margin-left: 0px;
+}
+.container .intro-text .intro-lead-in {
+	color: #FFFFFF;
+	font-family: unifrakturcook;
+	font-size: 56px;
+	text-align: center;
+	font-style: normal;
+	font-weight: 700;
+	position: relative;
+	top: 725px;
+}
+.container .intro-text .intro-heading {
+	color: #FFFFFF;
+	font-size: 29px;
+	font-family: unifrakturcook;
+	text-align: center;
+	font-style: normal;
+	font-weight: 700;
+	position: relative;
+	top: 770px;
+}
+.row.row-centered .col-lg-3.text-center p {
+	color: #FFFFFF;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.row.row-centered .col-lg-3.text-center h2 {
+	margin-top: 78px;
+	color: #FFFFFF;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
